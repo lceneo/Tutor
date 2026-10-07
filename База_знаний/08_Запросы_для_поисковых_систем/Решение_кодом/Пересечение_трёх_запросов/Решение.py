@@ -1,0 +1,6 @@
+# Из объединения двух пересечений находим общее пересечение всех трёх.
+math_and_informatics_page_count_thousands = 330
+math_and_physics_page_count_thousands = 270
+math_and_informatics_or_physics_page_count_thousands = 520
+all_three_page_count_thousands = math_and_informatics_page_count_thousands + math_and_physics_page_count_thousands - math_and_informatics_or_physics_page_count_thousands
+print(all_three_page_count_thousands)
