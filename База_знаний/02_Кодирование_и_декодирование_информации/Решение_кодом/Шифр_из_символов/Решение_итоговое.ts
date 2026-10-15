@@ -3,10 +3,10 @@ const encodedMessage: string = "#~#~#++~#";
 const codeToLetter: Record<string, string> = {
     "+#": "А",
     "#+": "Е",
-    "~": "Л",
     "#": "П",
     "+~#": "Т",
-    "~#": "О"
+    "~#": "О",
+    "~": "Л",
 };
 
 interface DecodeState {
