@@ -129,6 +129,58 @@ const graphProblem43351: Graph = {
   ],
 };
 
+// РешуОГЭ № 23: кратчайший путь A → E равен A—C—B—D—E, 9 км.
+const graphProblem23: Graph = {
+  A: [
+    { to: "B", distance: 5 },
+    { to: "C", distance: 3 },
+  ],
+  B: [
+    { to: "A", distance: 5 },
+    { to: "C", distance: 1 },
+    { to: "D", distance: 4 },
+  ],
+  C: [
+    { to: "A", distance: 3 },
+    { to: "B", distance: 1 },
+    { to: "D", distance: 6 },
+  ],
+  D: [
+    { to: "B", distance: 4 },
+    { to: "C", distance: 6 },
+    { to: "E", distance: 1 },
+  ],
+  E: [{ to: "D", distance: 1 }],
+};
+
+// РешуОГЭ № 43: кратчайший путь A → E равен A—B—C—D—E, 10 км.
+const graphProblem43: Graph = {
+  A: [
+    { to: "B", distance: 3 },
+    { to: "C", distance: 7 },
+  ],
+  B: [
+    { to: "A", distance: 3 },
+    { to: "C", distance: 2 },
+    { to: "E", distance: 8 },
+  ],
+  C: [
+    { to: "A", distance: 7 },
+    { to: "B", distance: 2 },
+    { to: "D", distance: 4 },
+  ],
+  D: [
+    { to: "C", distance: 4 },
+    { to: "E", distance: 1 },
+  ],
+  E: [
+    { to: "B", distance: 8 },
+    { to: "D", distance: 1 },
+  ],
+};
+
 console.log(findShortestRoute(graphProblem3, "A", "E"));
 console.log(findShortestRoute(graphProblem63, "A", "E"));
 console.log(findShortestRoute(graphProblem43351, "A", "E", "C"));
+console.log(findShortestRoute(graphProblem23, "A", "E"));
+console.log(findShortestRoute(graphProblem43, "A", "E"));
