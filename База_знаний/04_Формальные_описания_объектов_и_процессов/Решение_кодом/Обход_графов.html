@@ -1792,6 +1792,8 @@ html&gt;body{padding:0}&lt;/style&gt;
     &lt;label class=&quot;form-label&quot; for=&quot;graphChoice&quot;&gt;Граф
       &lt;select class=&quot;form-select&quot; id=&quot;graphChoice&quot;&gt;
         &lt;option value=&quot;3&quot;&gt;Problem 3&lt;/option&gt;
+        &lt;option value=&quot;23&quot;&gt;Problem 23&lt;/option&gt;
+        &lt;option value=&quot;43&quot;&gt;Problem 43&lt;/option&gt;
         &lt;option value=&quot;63&quot;&gt;Problem 63&lt;/option&gt;
         &lt;option value=&quot;43351&quot;&gt;Problem 43351&lt;/option&gt;
       &lt;/select&gt;
@@ -1827,13 +1829,13 @@ html&gt;body{padding:0}&lt;/style&gt;
     #dfsRoadGraphs h2 { margin: 0 0 .65em; }
     #dfsRoadGraphs .viz-controls { align-items: end; }
     #dfsRoadGraphs .form-label { min-width: 150px; }
-    #dfsRoadGraphs .legend { display: flex; flex-wrap: wrap; gap: .5em 1.2em; margin: .6em 0 .3em; }
+    #dfsRoadGraphs .legend { display: flex; flex-wrap: wrap; gap: .5em 1.2em; margin: .4em 0 .2em; }
     #dfsRoadGraphs .legend span { display: inline-flex; align-items: center; gap: .4em; }
     #dfsRoadGraphs .legend-mark { display: inline-block; width: 22px; height: 0; border-top: 3px solid var(--muted-foreground); }
     #dfsRoadGraphs .legend-mark.current { border-color: var(--viz-series-1); }
     #dfsRoadGraphs .legend-mark.best { border-color: var(--viz-series-2); border-top-width: 5px; }
     #dfsRoadGraphs .legend-mark.skipped { border-top-style: dashed; }
-    #dfsRoadGraphs #graphSubtitle { margin: .25em 0; }
+    #dfsRoadGraphs #graphSubtitle { margin: .15em 0; }
     #dfsRoadGraphs #graphWrap { width: 100%; }
     #dfsRoadGraphs svg { display: block; width: 100%; height: auto; overflow: visible; }
     #dfsRoadGraphs .edge-base { stroke: var(--muted-foreground); stroke-width: 1.5; opacity: .55; }
@@ -1881,6 +1883,54 @@ html&gt;body{padding:0}&lt;/style&gt;
           ],
           desktop: { A: [55, 210], B: [250, 210], C: [435, 82], D: [435, 338], E: [685, 210] },
           mobile: { A: [34, 210], B: [115, 210], C: [200, 90], D: [200, 330], E: [286, 210] }
+        },
+        &quot;23&quot;: {
+          title: &quot;Problem 23&quot;,
+          subtitle: &quot;Старт A · финиш E · ищем кратчайший маршрут&quot;,
+          start: &quot;A&quot;,
+          finish: &quot;E&quot;,
+          required: null,
+          roads: {
+            A: [{ to: &quot;B&quot;, distance: 5 }, { to: &quot;C&quot;, distance: 3 }],
+            B: [{ to: &quot;A&quot;, distance: 5 }, { to: &quot;C&quot;, distance: 1 }, { to: &quot;D&quot;, distance: 4 }],
+            C: [{ to: &quot;A&quot;, distance: 3 }, { to: &quot;B&quot;, distance: 1 }, { to: &quot;D&quot;, distance: 6 }],
+            D: [{ to: &quot;B&quot;, distance: 4 }, { to: &quot;C&quot;, distance: 6 }, { to: &quot;E&quot;, distance: 1 }],
+            E: [{ to: &quot;D&quot;, distance: 1 }]
+          },
+          edges: [
+            { a: &quot;A&quot;, b: &quot;B&quot;, distance: 5, label: [153, 148], mobileLabel: [72, 102] },
+            { a: &quot;A&quot;, b: &quot;C&quot;, distance: 3, label: [153, 272], mobileLabel: [72, 190] },
+            { a: &quot;B&quot;, b: &quot;C&quot;, distance: 1, label: [250, 210], mobileLabel: [110, 145] },
+            { a: &quot;B&quot;, b: &quot;D&quot;, distance: 4, label: [365, 148], mobileLabel: [166, 102] },
+            { a: &quot;C&quot;, b: &quot;D&quot;, distance: 6, label: [365, 272], mobileLabel: [166, 190] },
+            { a: &quot;D&quot;, b: &quot;E&quot;, distance: 1, label: [582, 210], mobileLabel: [253, 145] }
+          ],
+          desktop: { A: [55, 210], B: [250, 85], C: [250, 335], D: [480, 210], E: [685, 210] },
+          mobile: { A: [34, 145], B: [110, 72], C: [110, 218], D: [220, 145], E: [286, 145] }
+        },
+        &quot;43&quot;: {
+          title: &quot;Problem 43&quot;,
+          subtitle: &quot;Старт A · финиш E · ищем кратчайший маршрут&quot;,
+          start: &quot;A&quot;,
+          finish: &quot;E&quot;,
+          required: null,
+          roads: {
+            A: [{ to: &quot;B&quot;, distance: 3 }, { to: &quot;C&quot;, distance: 7 }],
+            B: [{ to: &quot;A&quot;, distance: 3 }, { to: &quot;C&quot;, distance: 2 }, { to: &quot;E&quot;, distance: 8 }],
+            C: [{ to: &quot;A&quot;, distance: 7 }, { to: &quot;B&quot;, distance: 2 }, { to: &quot;D&quot;, distance: 4 }],
+            D: [{ to: &quot;C&quot;, distance: 4 }, { to: &quot;E&quot;, distance: 1 }],
+            E: [{ to: &quot;B&quot;, distance: 8 }, { to: &quot;D&quot;, distance: 1 }]
+          },
+          edges: [
+            { a: &quot;A&quot;, b: &quot;B&quot;, distance: 3, label: [222, 80], mobileLabel: [90, 75] },
+            { a: &quot;A&quot;, b: &quot;C&quot;, distance: 7, label: [188, 203], mobileLabel: [80, 155] },
+            { a: &quot;B&quot;, b: &quot;C&quot;, distance: 2, label: [300, 188], mobileLabel: [130, 140] },
+            { a: &quot;B&quot;, b: &quot;E&quot;, distance: 8, label: [493, 80], mobileLabel: [210, 70] },
+            { a: &quot;C&quot;, b: &quot;D&quot;, distance: 4, label: [418, 310], mobileLabel: [180, 225] },
+            { a: &quot;D&quot;, b: &quot;E&quot;, distance: 1, label: [610, 203], mobileLabel: [260, 155] }
+          ],
+          desktop: { A: [110, 95], B: [335, 65], C: [265, 310], D: [570, 310], E: [650, 95] },
+          mobile: { A: [40, 90], B: [140, 60], C: [120, 220], D: [240, 230], E: [280, 80] }
         },
         &quot;63&quot;: {
           title: &quot;Problem 63&quot;,
@@ -2040,11 +2090,16 @@ html&gt;body{padding:0}&lt;/style&gt;
         Promise.resolve(api.setWidgetState({ modelContent: { graphKey, stepIndex }, privateContent: null })).catch(() =&gt; {});
       }
 
+      const graphVerticalScale = 0.7;
+
       function positionsFor(graph, width) {
-        if (width &gt;= 600) return { positions: graph.desktop, viewBox: &quot;0 0 740 420&quot;, mobile: false };
+        if (width &gt;= 600) {
+          const positions = Object.fromEntries(Object.entries(graph.desktop).map(([name, point]) =&gt; [name, [point[0], point[1] * graphVerticalScale]]));
+          return { positions, viewBox: &quot;0 0 740 300&quot;, mobile: false };
+        }
         const scale = width / 320;
-        const positions = Object.fromEntries(Object.entries(graph.mobile).map(([name, point]) =&gt; [name, [point[0] * scale, point[1]]]));
-        return { positions, viewBox: `0 0 ${width} 400`, mobile: true };
+        const positions = Object.fromEntries(Object.entries(graph.mobile).map(([name, point]) =&gt; [name, [point[0] * scale, point[1] * graphVerticalScale]]));
+        return { positions, viewBox: `0 0 ${width} 290`, mobile: true };
       }
 
       function drawGraph() {
@@ -2052,8 +2107,8 @@ html&gt;body{padding:0}&lt;/style&gt;
         const width = Math.max(300, Math.round(root.querySelector(&quot;#graphWrap&quot;).getBoundingClientRect().width));
         const { positions, viewBox, mobile } = positionsFor(graph, width);
         svg.setAttribute(&quot;viewBox&quot;, viewBox);
-        svg.style.aspectRatio = mobile ? &quot;auto&quot; : &quot;740 / 420&quot;;
-        svg.style.height = mobile ? &quot;400px&quot; : &quot;auto&quot;;
+        svg.style.aspectRatio = mobile ? &quot;auto&quot; : &quot;740 / 300&quot;;
+        svg.style.height = mobile ? &quot;290px&quot; : &quot;auto&quot;;
 
         const step = steps[stepIndex];
         const currentEdges = edgeSetFor(step.path);
@@ -2066,7 +2121,9 @@ html&gt;body{padding:0}&lt;/style&gt;
         groups.current.innerHTML = graph.edges.filter(edge =&gt; currentEdges.has(edgeKey(edge.a, edge.b))).map(edge =&gt; line(edge, positions, &quot;edge-current&quot;)).join(&quot;&quot;);
         groups.skipped.innerHTML = skipped ? line({ a: skipped[0], b: skipped[1] }, positions, &quot;edge-skip&quot;) : &quot;&quot;;
         groups.labels.innerHTML = graph.edges.map(edge =&gt; {
-          const [x, y] = mobile ? edge.mobileLabel : edge.label;
+          const [labelX, labelY] = mobile ? edge.mobileLabel : edge.label;
+          const x = mobile ? labelX * width / 320 : labelX;
+          const y = labelY * graphVerticalScale;
           const key = edgeKey(edge.a, edge.b);
           const classes = [&quot;edge-label&quot;, currentEdges.has(key) || currentEdge === key ? &quot;is-current&quot; : &quot;&quot;, bestEdges.has(key) ? &quot;is-best&quot; : &quot;&quot;].filter(Boolean).join(&quot; &quot;);
           return `&lt;g class=&quot;${classes}&quot;&gt;&lt;rect x=&quot;${x - 28}&quot; y=&quot;${y - 13}&quot; width=&quot;56&quot; height=&quot;26&quot; rx=&quot;3&quot;&gt;&lt;/rect&gt;&lt;text x=&quot;${x}&quot; y=&quot;${y}&quot;&gt;${edge.distance} км&lt;/text&gt;&lt;/g&gt;`;

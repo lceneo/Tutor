@@ -179,8 +179,8 @@ const graphProblem43: Graph = {
   ],
 };
 
-console.log(findShortestRoute(graphProblem3, "A", "E"));
-console.log(findShortestRoute(graphProblem63, "A", "E"));
+// console.log(findShortestRoute(graphProblem3, "A", "E"));
+// console.log(findShortestRoute(graphProblem63, "A", "E"));
 console.log(findShortestRoute(graphProblem43351, "A", "E", "C"));
-console.log(findShortestRoute(graphProblem23, "A", "E"));
-console.log(findShortestRoute(graphProblem43, "A", "E"));
+// console.log(findShortestRoute(graphProblem23, "A", "E"));
+// console.log(findShortestRoute(graphProblem43, "A", "E"));
