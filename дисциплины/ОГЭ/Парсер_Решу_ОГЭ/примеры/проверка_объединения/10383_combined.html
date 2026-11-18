@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Задача 10383</title>
+<base href="https://inf-oge.sdamgia.ru/problem?id=10383">
+<style>.source_code p { white-space: pre-wrap; margin: 0; }</style>
+</head>
+<body>
+<p class="left_margin">У ис­пол­ни­те­ля Альфа две ко­ман­ды, ко­то­рым при­сво­е­ны но­ме­ра:<p class="left_margin"><b>1. при­бавь 1;</b><p class="left_margin"><b>2. умножь на b</b><p class="left_margin">(<i>b</i>&#8239;&#8239;— не­из­вест­ное на­ту­раль­ное число; <i>b</i> ≥ 2).<p class="left_margin">Вы­пол­няя первую из них, Альфа уве­ли­чи­ва­ет число на экра­не на 1, а вы­пол­няя вто­рую, умно­жа­ет это число на <i>b</i>. Про­грам­ма для ис­пол­ни­те­ля Альфа&#8239;&#8239;— это по­сле­до­ва­тель­ность но­ме­ров ко­манд. Из­вест­но, что про­грам­ма 11211 пе­ре­во­дит число 6&#8239;в число 82. Опре­де­ли­те зна­че­ние <i>b</i>.
+<hr>
+<p class="left_margin"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class="left_margin">За­ме­тим, что после вы­пол­не­ния пер­вых двух ко­манд мы по­лу­ча­ем число 8. Далее, со­ста­вим и решим урав­не­ние:<p class="left_margin"><center><p><img src="https://oge.sdamgia.ru/formula/svg/9a/9a3fa90b6d292f32d1f06b79f6c0a72e.svg" class="tex" style="vertical-align:-1.8pt" alt="8b плюс 2=82 рав­но­силь­но 8b=80 рав­но­силь­но b=10." /><p class="left_margin"></center><p>&nbsp;</p><p><span style="letter-spacing: 2px;">Ответ:</span> 10.<p>&nbsp;</p><p><b>При­ве­дем дру­гое ре­ше­ние на языке Python.</b> <p class="left_margin"><div class="source_code lang_python"><p>for b in range(2, 100):<p>    x = 6 + 1 + 1<p>    if (x * b + 1 + 1) == 82:<p>        print(b)<p></div><!--rule_body-->
+</body>
+</html>

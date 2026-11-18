@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Задача 10383: решение</title>
+<base href="https://inf-oge.sdamgia.ru/problem?id=10383">
+<style>.source_code p { white-space: pre-wrap; margin: 0; }</style>
+</head>
+<body>
+<p class="left_margin"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class="left_margin">За­ме­тим, что после вы­пол­не­ния пер­вых двух ко­манд мы по­лу­ча­ем число 8. Далее, со­ста­вим и решим урав­не­ние:<p class="left_margin"><center><p><img src="https://oge.sdamgia.ru/formula/svg/9a/9a3fa90b6d292f32d1f06b79f6c0a72e.svg" class="tex" style="vertical-align:-1.8pt" alt="8b плюс 2=82 рав­но­силь­но 8b=80 рав­но­силь­но b=10." /><p class="left_margin"></center><p>&nbsp;</p><p><span style="letter-spacing: 2px;">Ответ:</span> 10.<p>&nbsp;</p><p><b>При­ве­дем дру­гое ре­ше­ние на языке Python.</b> <p class="left_margin"><div class="source_code lang_python"><p>for b in range(2, 100):<p>    x = 6 + 1 + 1<p>    if (x * b + 1 + 1) == 82:<p>        print(b)<p></div><!--rule_body-->
+</body>
+</html>

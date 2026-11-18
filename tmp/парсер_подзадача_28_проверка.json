@@ -1,0 +1,302 @@
+[
+  {
+    "id": 10504,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=10504",
+    "condition": {
+      "text": "Сколько файлов с расширением .txt содержится в подкаталогах каталога Проза? В ответе укажите только число.\nВыполните задание, распаковав архив на своем компьютере.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10504: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10504\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .txt со­дер­жит­ся в под­ка­та­ло­гах ка­та­ло­га <b>Проза</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\">Вы­пол­ни­те за­да­ние, рас­па­ко­вав архив на своем ком­пью­те­ре.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48458\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nСпустимся в каталог Проза. В строке поиска введем «*.txt», где символ *  — любое количество символов. Результатом поискового запроса будет список всех файлов в подкаталогах каталога Проза с расширением .txt. Таких файлов 16.\nОтвет: 16.\nПримечание.\nФайлов не так много, можно просто просмотреть все папки. В них 16 файлов с расширением .txt.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10504: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10504\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">Спу­стим­ся в ка­та­лог <b>Проза</b>. В стро­ке по­ис­ка вве­дем «*.txt», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов в под­ка­та­ло­гах ка­та­ло­га <b>Проза</b> с рас­ши­ре­ни­ем .txt. Таких фай­лов 16.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 16.<p>&nbsp;</p><p><b>При­ме­ча­ние.</b><p class=\"left_margin\">Фай­лов не так много, можно про­сто про­смот­реть все папки. В них 16 фай­лов с рас­ши­ре­ни­ем .txt.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 10507,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=10507",
+    "condition": {
+      "text": "Сколько файлов с расширением .pdf содержится в подкаталогах каталога Проза? В ответе укажите только число.\nВыполните задание, распаковав архив на своем компьютере.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10507: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10507\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .pdf со­дер­жит­ся в под­ка­та­ло­гах ка­та­ло­га <b>Проза</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\">Вы­пол­ни­те за­да­ние, рас­па­ко­вав архив на своем ком­пью­те­ре.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48458\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nСпустимся в каталог Проза. В строке поиска введем «*.pdf», где символ *  — любое количество символов. Результатом поискового запроса будет список всех файлов в подкаталогах каталога Проза с расширением .pdf. Таких файлов 11.\nОтвет: 11.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10507: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10507\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">Спу­стим­ся в ка­та­лог <b>Проза</b>. В стро­ке по­ис­ка вве­дем «*.pdf», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов в под­ка­та­ло­гах ка­та­ло­га <b>Проза</b> с рас­ши­ре­ни­ем .pdf. Таких фай­лов 11.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 11.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 10510,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=10510",
+    "condition": {
+      "text": "Сколько файлов с расширением .htm содержится в подкаталогах каталога Проза? В ответе укажите только число.\nВыполните задание, распаковав архив на своем компьютере.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10510: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10510\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .htm со­дер­жит­ся в под­ка­та­ло­гах ка­та­ло­га <b>Проза</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\">Вы­пол­ни­те за­да­ние, рас­па­ко­вав архив на своем ком­пью­те­ре.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48458\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nСпустимся в каталог Проза. В строке поиска введем «\"*.htm\"», где символ *  — любое количество символов. Результатом поискового запроса будет список всех файлов в подкаталогах каталога Проза с расширением .htm. Таких файлов 10.\nОтвет: 10.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10510: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10510\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">Спу­стим­ся в ка­та­лог <b>Проза</b>. В стро­ке по­ис­ка вве­дем «\"*.htm\"», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов в под­ка­та­ло­гах ка­та­ло­га <b>Проза</b> с рас­ши­ре­ни­ем .htm. Таких фай­лов 10.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 10.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 10512,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=10512",
+    "condition": {
+      "text": "Сколько файлов с расширением .rtf содержится в подкаталогах каталога Проза? В ответе укажите только число.\nВыполните задание, распаковав архив на своем компьютере.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10512: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10512\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .rtf со­дер­жит­ся в под­ка­та­ло­гах ка­та­ло­га <b>Проза</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\">Вы­пол­ни­те за­да­ние, рас­па­ко­вав архив на своем ком­пью­те­ре.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48458\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nСпустимся в каталог Проза. В строке поиска введем «*.rtf», где символ *  — любое количество символов. Результатом поискового запроса будет список всех файлов в подкаталогах каталога Проза с расширением .rtf. Таких файлов 14.\nОтвет: 14.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10512: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10512\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">Спу­стим­ся в ка­та­лог <b>Проза</b>. В стро­ке по­ис­ка вве­дем «*.rtf», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов в под­ка­та­ло­гах ка­та­ло­га <b>Проза</b> с рас­ши­ре­ни­ем .rtf. Таких фай­лов 14.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 14.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 10598,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=10598",
+    "condition": {
+      "text": "Сколько файлов с расширением .html содержится в подкаталогах каталога DEMO-12? В ответе укажите только число.\nВыполните задание, распаковав архив на своем компьютере.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10598: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10598\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .html со­дер­жит­ся в под­ка­та­ло­гах ка­та­ло­га <b>DEMO-12</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\">Вы­пол­ни­те за­да­ние, рас­па­ко­вав архив на своем ком­пью­те­ре.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48458\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nСпустимся в каталог DEMO-12. В строке поиска введем «*.html», где символ *  — любое количество символов. Результатом поискового запроса будет список всех файлов в подкаталогах каталога DEMO-12 с расширением .html. Таких файлов 3.\nОтвет: 3.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10598: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10598\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">Спу­стим­ся в ка­та­лог <b>DEMO-12</b>. В стро­ке по­ис­ка вве­дем «*.html», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов в под­ка­та­ло­гах ка­та­ло­га <b>DEMO-12</b> с рас­ши­ре­ни­ем .html. Таких фай­лов 3.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 3.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 10599,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=10599",
+    "condition": {
+      "text": "Сколько файлов с расширением .odt содержится в подкаталогах каталога DEMO-12? В ответе укажите только число.\nВыполните задание, распаковав архив на своем компьютере.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10599: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10599\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .odt со­дер­жит­ся в под­ка­та­ло­гах ка­та­ло­га <b>DEMO-12</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\">Вы­пол­ни­те за­да­ние, рас­па­ко­вав архив на своем ком­пью­те­ре.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48458\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nСпустимся в каталог DEMO-12. В строке поиска введем «*.odt», где символ *  — любое количество символов. Результатом поискового запроса будет список всех файлов в подкаталогах каталога DEMO-12 с расширением .odt. Таких файлов 2.\nОтвет: 2.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10599: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10599\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">Спу­стим­ся в ка­та­лог <b>DEMO-12</b>. В стро­ке по­ис­ка вве­дем «*.odt», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов в под­ка­та­ло­гах ка­та­ло­га <b>DEMO-12</b> с рас­ши­ре­ни­ем .odt. Таких фай­лов 2.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 2.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 10600,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=10600",
+    "condition": {
+      "text": "Сколько файлов с расширением .docx содержится в подкаталогах каталога DEMO-12? В ответе укажите только число.\nВыполните задание, распаковав архив на своем компьютере.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10600: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10600\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .docx со­дер­жит­ся в под­ка­та­ло­гах ка­та­ло­га <b>DEMO-12</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\">Вы­пол­ни­те за­да­ние, рас­па­ко­вав архив на своем ком­пью­те­ре.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48458\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nСпустимся в каталог DEMO-12. В строке поиска введем «*.docx», где символ *  — любое количество символов. Результатом поискового запроса будет список всех файлов в подкаталогах каталога DEMO-12 с расширением .docx. Таких файлов 3.\nОтвет: 3.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10600: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10600\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">Спу­стим­ся в ка­та­лог <b>DEMO-12</b>. В стро­ке по­ис­ка вве­дем «*.docx», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов в под­ка­та­ло­гах ка­та­ло­га <b>DEMO-12</b> с рас­ши­ре­ни­ем .docx. Таких фай­лов 3.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 3.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 10601,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=10601",
+    "condition": {
+      "text": "Сколько файлов с расширением .docx и .doc содержится в подкаталогах каталога DEMO-12? В ответе укажите только число.\nВыполните задание, распаковав архив на своем компьютере.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10601: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10601\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .docx и .doc со­дер­жит­ся в под­ка­та­ло­гах ка­та­ло­га <b>DEMO-12</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\">Вы­пол­ни­те за­да­ние, рас­па­ко­вав архив на своем ком­пью­те­ре.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48458\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nСпустимся в каталог DEMO-12. В строке поиска введем «*.doc», где символ *  — любое количество символов. Результатом поискового запроса будет список всех файлов в подкаталогах каталога DEMO-12 с расширениями .docx и .doc. Таких файлов 4.\nОтвет: 4.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 10601: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=10601\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">Спу­стим­ся в ка­та­лог <b>DEMO-12</b>. В стро­ке по­ис­ка вве­дем «*.doc», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов в под­ка­та­ло­гах ка­та­ло­га <b>DEMO-12</b> с рас­ши­ре­ни­я­ми .docx и .doc. Таких фай­лов 4.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 4.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 11322,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=11322",
+    "condition": {
+      "text": "Сколько файлов с расширением .doc содержится в подкаталогах каталога Task12? В ответе укажите только число.\nВыполните задание, распаковав архив на своем компьютере.\nTask12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 11322: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=11322\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .doc со­дер­жит­ся в под­ка­та­ло­гах ка­та­ло­га <b>Task12</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\">Вы­пол­ни­те за­да­ние, рас­па­ко­вав архив на своем ком­пью­те­ре.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48494\" target=\"_blank\">Task12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nСпустимся в каталог Task12. В строке поиска введем «\".doc\"», где символы \"\" означают строгий поиск. Результатом поискового запроса будет список всех файлов в подкаталогах каталога DEMO-12 с расширением .doc. Таких файлов 3.\nОтвет: 3.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 11322: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=11322\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">Спу­стим­ся в ка­та­лог <b>Task12</b>. В стро­ке по­ис­ка вве­дем «\".doc\"», где сим­во­лы \"\" озна­ча­ют стро­гий поиск. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов в под­ка­та­ло­гах ка­та­ло­га <b>DEMO-12</b> с рас­ши­ре­ни­ем .doc. Таких фай­лов 3.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 3.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 11329,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=11329",
+    "condition": {
+      "text": "Сколько файлов с расширением .py содержится в подкаталогах каталога Files? В ответе укажите только число.\nВыполните задание, распаковав архив на своем компьютере.\nFiles.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 11329: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=11329\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .py со­дер­жит­ся в под­ка­та­ло­гах ка­та­ло­га <b>Files</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\">Вы­пол­ни­те за­да­ние, рас­па­ко­вав архив на своем ком­пью­те­ре.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48501\" target=\"_blank\">Files.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nСпустимся в каталог Files. В строке поиска введем «*.py», где символ *  — любое количество символов. Результатом поискового запроса будет список всех файлов в подкаталогах каталога Files с расширением .py. Таких файлов 4.\nОтвет: 4.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 11329: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=11329\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">Спу­стим­ся в ка­та­лог <b>Files</b>. В стро­ке по­ис­ка вве­дем «*.py», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов в под­ка­та­ло­гах ка­та­ло­га <b>Files</b> с рас­ши­ре­ни­ем .py. Таких фай­лов 4.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 4.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 11330,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=11330",
+    "condition": {
+      "text": "Сколько файлов с расширением .js содержится в подкаталогах каталога Files? В ответе укажите только число.\nВыполните задание, распаковав архив на своем компьютере.\nFiles.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 11330: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=11330\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .js со­дер­жит­ся в под­ка­та­ло­гах ка­та­ло­га <b>Files</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\">Вы­пол­ни­те за­да­ние, рас­па­ко­вав архив на своем ком­пью­те­ре.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48502\" target=\"_blank\">Files.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nСпустимся в каталог Files. В строке поиска введем «*.js», где символ *  — любое количество символов. Результатом поискового запроса будет список всех файлов в подкаталогах каталога Files с расширением .js. Таких файлов 12.\nОтвет: 12.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 11330: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=11330\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">Спу­стим­ся в ка­та­лог <b>Files</b>. В стро­ке по­ис­ка вве­дем «*.js», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов в под­ка­та­ло­гах ка­та­ло­га <b>Files</b> с рас­ши­ре­ни­ем .js. Таких фай­лов 12.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 12.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 37688,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=37688",
+    "condition": {
+      "text": "Сколько файлов c расширением .htm содержится в подкаталогах Есенин и Лермонтов каталога DEMO⁠-⁠12⁠/⁠Поэзия? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 37688: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=37688\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов c рас­ши­ре­ни­ем .htm со­дер­жит­ся в под­ка­та­ло­гах Есе­нин и Лер­мон­тов ка­та­ло­га DEMO&#8288;-&#8288;12&#8288;/&#8288;По­э­зия? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=69271\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nОткроем подкаталог Есенин каталога Поэзия. В строке поиска введем «*.\"htm\"», где символ *  — любое количество символов. Результатом поискового запроса будет список всех файлов с расширением .htm. Таких файлов 3.\nОткроем подкаталог Лермонтов каталога Поэзия. В строке поиска введем «*.\"htm\"». Результатом поискового запроса будет 3.\nВсего 6 файлов c расширением .htm содержится в подкаталогах Есенин и Лермонтов каталога DEMO⁠-⁠12⁠/⁠Поэзия.\nОтвет: 6.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 37688: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=37688\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">От­кро­ем под­ка­та­лог <b>Есе­нин</b> ка­та­ло­га <b>По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.\"htm\"», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­во­го за­про­са будет спи­сок всех фай­лов с рас­ши­ре­ни­ем .htm. Таких фай­лов 3. <p class=\"left_margin\">От­кро­ем под­ка­та­лог <b>Лер­мон­тов</b> ка­та­ло­га <b>По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.\"htm\"». Ре­зуль­та­том по­ис­ко­во­го за­про­са будет 3. <p class=\"left_margin\">Всего 6 фай­лов c рас­ши­ре­ни­ем .htm со­дер­жит­ся в под­ка­та­ло­гах Есе­нин и Лер­мон­тов ка­та­ло­га DEMO⁠-⁠12⁠/⁠По­э­зия.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 6.<!--np--><!--np-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43589,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43589",
+    "condition": {
+      "text": "Сколько файлов с расширением .htm содержится в подкаталогах Блок, Есенин и Некрасов каталога DEMO-12/Поэзия? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43589: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43589\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов с рас­ши­ре­ни­ем .htm со­дер­жит­ся в под­ка­та­ло­гах <b>Блок</b>, <b>Есе­нин</b> и <b>Не­кра­сов</b> ка­та­ло­га DEMO-12/По­э­зия? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=48458\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в каталоги Блок, Есенин и Некрасов каталога DEMO-12/Поэзия. В строке поиска введем «*.htm», где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширением .htm. Такой файл один.\nОтвет: 1.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43589: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43589\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в ка­та­ло­ги <b>Блок</b>, <b>Есе­нин</b> и <b>Не­кра­сов</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.htm», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­ем .htm. Такой файл один.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 1.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43625,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43625",
+    "condition": {
+      "text": "Сколько всего файлов с расширениями .jpeg и .pdf содержится в подкаталоге Достоевский каталога DEMO-12/Проза, а также в подкаталоге Есенин и Пушкин каталога DEMO-12/Поэзия? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43625: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43625\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко всего фай­лов с рас­ши­ре­ни­я­ми .jpeg и .pdf со­дер­жит­ся в под­ка­та­ло­ге <b>До­сто­ев­ский</b> ка­та­ло­га <b>DEMO-12/Проза</b>, а также в под­ка­та­ло­ге <b>Есе­нин</b> и <b>Пуш­кин</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=81207\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в каталоги Достоевский каталога DEMO-12/Проза и Есенин и Пушкин каталога DEMO-12/Поэзия. В строке поиска введем «*.jpeg», а потом «*.pdf» где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширениями .jpeg и .pdf. Таких файлов 17.\nОтвет: 17.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43625: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43625\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в ка­та­ло­ги <b>До­сто­ев­ский</b> ка­та­ло­га <b>DEMO-12/Проза</b> и <b>Есе­нин</b> и <b>Пуш­кин</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.jpeg», а потом «*.pdf» где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­я­ми .jpeg и .pdf. Таких фай­лов 17.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 17.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43645,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43645",
+    "condition": {
+      "text": "Сколько всего файлов с расширениями .htm и .jpeg содержится в подкаталогах Перов и Суриков каталога DEMO-12/Живопись, а также в подкаталогах Блок и Есенин каталога DEMO-12/Поэзия? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43645: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43645\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко всего фай­лов с рас­ши­ре­ни­я­ми .htm и .jpeg со­дер­жит­ся в под­ка­та­ло­гах <b>Перов</b> и <b>Су­ри­ков</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b>, а также в под­ка­та­ло­гах <b>Блок</b> и <b>Есе­нин</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=81207\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в каталоги  Перов и Суриков каталога DEMO-12/Живопись и Блок и Есенин каталога DEMO-12/Поэзия. В строке поиска введем «*.jpeg», а потом «*.htm», где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширениями .jpeg и .htm. Таких файлов 18.\nОтвет: 18.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43645: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43645\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в ка­та­ло­ги  <b>Перов</b> и <b>Су­ри­ков</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b> и <b>Блок</b> и <b>Есе­нин</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.jpeg», а потом «*.htm», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­я­ми .jpeg и .htm. Таких фай­лов 18.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 18.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43661,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43661",
+    "condition": {
+      "text": "Сколько всего файлов с расширениями .htm и .jpeg содержится в подкаталогах Куприн и Пушкин каталога DEMO-12/Проза, а также в подкаталогах Есенин и Лермонтов каталога DEMO-12/Поэзия? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43661: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43661\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко всего фай­лов с рас­ши­ре­ни­я­ми .htm и .jpeg со­дер­жит­ся в под­ка­та­ло­гах <b>Куп­рин</b> и <b>Пуш­кин</b> ка­та­ло­га<b> DEMO-12/Проза</b>, а также в под­ка­та­ло­гах <b>Есе­нин</b> и <b>Лер­мон­тов</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=81207\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в каталоги Куприн и Пушкин каталога DEMO-12/Проза и Есенин и Лермонтов каталога DEMO-12/Поэзия. В строке поиска введем «*.htm», а потом «*.jpeg» где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширениями .htm и .jpeg. Таких файлов 15.\nОтвет: 15.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43661: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43661\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в ка­та­ло­ги <b>Куп­рин</b> и <b>Пуш­кин</b> ка­та­ло­га<b> DEMO-12/Проза</b> и <b>Есе­нин</b> и <b>Лер­мон­тов</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.htm», а потом «*.jpeg» где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­я­ми .htm и .jpeg. Таких фай­лов&#8239;15.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 15.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43677,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43677",
+    "condition": {
+      "text": "Сколько всего файлов с расширениями .png и .txt содержится в подкаталоге Перов каталога DEMO-12/Живопись, а также в подкаталогах Лермонтов и Некрасов каталога DEMO-12/Поэзия? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43677: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43677\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко всего фай­лов с рас­ши­ре­ни­я­ми .png и .txt со­дер­жит­ся в под­ка­та­ло­ге <b>Перов</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b>, а также в под­ка­та­ло­гах <b>Лер­мон­тов</b> и <b>Не­кра­сов</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=81207\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в каталоги Перов каталога DEMO-12/Живопись и Лермонтов и Некрасов каталога DEMO-12/Поэзия. В строке поиска введем «*.png», а потом «*.txt» где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширениями .png и .txt. Таких файлов 14.\nОтвет: 14.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43677: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43677\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в ка­та­ло­ги <b>Перов</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b> и <b>Лер­мон­тов</b> и <b>Не­кра­сов</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.png», а потом «*.txt» где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­я­ми .png и .txt. Таких фай­лов 14.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 14.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43739,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43739",
+    "condition": {
+      "text": "Сколько файлов c расширением .txt содержится в подкаталогах Блок, Лермонтов и Пушкин каталога DEMO-12/Поэзия? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43739: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43739\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко фай­лов c рас­ши­ре­ни­ем .txt со­дер­жит­ся в под­ка­та­ло­гах <b>Блок</b>, <b>Лер­мон­тов</b> и <b>Пуш­кин</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=81207\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в каталоги Блок, Лермонтов и Пушкин каталога DEMO-12/Поэзия. В строке поиска введем «*.txt», где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширением .txt. Таких файлов 6.\nОтвет: 6.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43739: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43739\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в ка­та­ло­ги <b>Блок</b>, <b>Лер­мон­тов</b> и <b>Пуш­кин</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.txt», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­ем .txt. Таких фай­лов 6.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 6.<!--rule_body-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43777,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43777",
+    "condition": {
+      "text": "Сколько всего файлов с расширениями .htm и .tiff содержится в подкаталогах Верещагин и Малевич каталога DEMO-12/Живопись, а также в подкаталогах Лермонтов каталога DEMO-12/Поэзия? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43777: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43777\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко всего фай­лов с рас­ши­ре­ни­я­ми .htm и .tiff со­дер­жит­ся в под­ка­та­ло­гах <b>Ве­ре­ща­гин</b> и <b>Ма­ле­вич</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b>, а также в под­ка­та­ло­гах <b>Лер­мон­тов</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=82592\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в каталоги  Верещагин и Малевич каталога DEMO-12/Живопись и Лермонтов каталога DEMO-12/Поэзия. В строке поиска введем «*.tiff», а потом «*.htm», где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширениями .tiff и .htm. Таких файлов 8.\nОтвет: 8.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43777: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43777\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в ка­та­ло­ги  <b>Ве­ре­ща­гин</b> и <b>Ма­ле­вич</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b> и <b>Лер­мон­тов</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.tiff», а потом «*.htm», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­я­ми .tiff и .htm. Таких фай­лов 8.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 8.<!--np--><!--np-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43884,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43884",
+    "condition": {
+      "text": "Сколько всего файлов с расширениями .jpeg и .pdf содержится в подкаталоге Гончаров каталога DEMO-12/Проза, а также в подкаталогах Маяковский и Некрасов каталога DEMO-12/Поэзия? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43884: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43884\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко всего фай­лов с рас­ши­ре­ни­я­ми .jpeg и .pdf со­дер­жит­ся в под­ка­та­ло­ге <b>Гон­ча­ров</b> ка­та­ло­га <b>DEMO-12/Проза</b>, а также в под­ка­та­ло­гах <b>Ма­я­ков­ский</b> и <b>Не­кра­сов</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=81207\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в подкаталог Гончаров каталога DEMO-12/Проза и Маяковский и  Некрасов каталога DEMO-12/Поэзия. В строке поиска введем «*.jpeg», а потом «*.pdf» где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширениями .jpeg и .pdf. Таких файлов 11.\nОтвет: 11.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43884: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43884\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в под­ка­та­лог <b>Гон­ча­ров</b> ка­та­ло­га <b>DEMO-12/Проза</b> и <b>Ма­я­ков­ский</b> и <b> Не­кра­сов</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.jpeg», а потом «*.pdf» где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­я­ми .jpeg и .pdf. Таких фай­лов&#8239;11.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 11.<!--np--><!--np-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43885,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43885",
+    "condition": {
+      "text": "Сколько всего файлов с расширениями .htm и .jpeg содержится в подкаталогах Васнецов и Верещагин каталога DEMO-12/Живопись, а также в подкаталогах Гоголь и Чехов каталога DEMO-12/Проза? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43885: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43885\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко всего фай­лов с рас­ши­ре­ни­я­ми .htm и .jpeg со­дер­жит­ся в под­ка­та­ло­гах <b>Вас­не­цов</b> и <b>Ве­ре­ща­гин</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b>, а также в под­ка­та­ло­гах <b>Го­голь</b> и <b>Чехов</b> ка­та­ло­га <b>DEMO-12/Проза</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=81207\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в подкаталогах Васнецов и Верещагин каталога DEMO-12/Живопись и Гоголь и Чехов каталога DEMO-12/Проза. В строке поиска введем «*.htm», а потом «*.jpeg» где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширениями .htm и .jpeg. Таких файлов 13.\nОтвет: 13.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43885: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43885\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в под­ка­та­ло­гах <b>Вас­не­цов</b> и <b>Ве­ре­ща­гин</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b> и <b>Го­голь</b> и <b>Чехов</b> ка­та­ло­га <b>DEMO-12/Проза</b>. В стро­ке по­ис­ка вве­дем «*.htm», а потом «*.jpeg» где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­я­ми .htm и .jpeg. Таких фай­лов&#8239;13.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 13.<!--np--><!--np-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43886,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43886",
+    "condition": {
+      "text": "Сколько всего файлов с расширениями .jpeg и .pdf содержится в подкаталогах Гончаров и Достоевский каталога DEMO-12/Проза, а также в подкаталогах Есенин и Маяковский каталога DEMO-12/Поэзия? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43886: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43886\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко всего фай­лов с рас­ши­ре­ни­я­ми .jpeg и .pdf со­дер­жит­ся в под­ка­та­ло­гах <b>Гон­ча­ров</b> и <b>До­сто­ев­ский</b> ка­та­ло­га <b>DEMO-12/Проза</b>, а также в под­ка­та­ло­гах <b>Есе­нин</b> и <b>Ма­я­ков­ский</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=81207\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в подкаталоги Гончаров и Достоевский каталога DEMO-12/Проза и Есенин и Маяковский каталога DEMO-12/Поэзия. В строке поиска введем «*.jpeg», а потом «*.pdf» где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширениями .jpeg и .pdf. Таких файлов 17.\nОтвет: 17.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43886: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43886\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в под­ка­та­ло­ги <b>Гон­ча­ров</b> и <b>До­сто­ев­ский</b> ка­та­ло­га <b>DEMO-12/Проза</b> и <b>Есе­нин</b> и <b>Ма­я­ков­ский</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.jpeg», а потом «*.pdf» где сим­вол&#8239;*&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­я­ми .jpeg и .pdf. Таких фай­лов&#8239;17.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 17.<!--np--><!--np-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43887,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43887",
+    "condition": {
+      "text": "Сколько всего файлов с расширениями .png и .rtf содержится в подкаталогах Васнецов и Перов каталога DEMO-12/Живопись, а также в подкаталогах Чехов каталога DEMO-12/Проза? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43887: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43887\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко всего фай­лов с рас­ши­ре­ни­я­ми .png и .rtf со­дер­жит­ся в под­ка­та­ло­гах <b>Вас­не­цов</b> и <b>Перов</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b>, а также в под­ка­та­ло­гах <b>Чехов</b> ка­та­ло­га <b>DEMO-12/Проза</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=81207\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в подкаталоги Васнецов и Перов каталога DEMO-12/Живопись и Чехов каталога DEMO-12/Проза. В строке поиска введем «*.png», а потом «*.rtf», где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширениями .png и .rtf. Таких файлов 7.\nОтвет: 7.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43887: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43887\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в под­ка­та­ло­ги <b>Вас­не­цов</b> и <b>Перов</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b> и <b>Чехов</b> ка­та­ло­га <b>DEMO-12/Проза</b>. В стро­ке по­ис­ка вве­дем «*.png», а потом «*.rtf», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­я­ми .png и .rtf. Таких фай­лов&#8239;7.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 7.<!--np--><!--np-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 43888,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=43888",
+    "condition": {
+      "text": "Сколько всего файлов с расширениями .pdf и .tiff содержится в подкаталогах Врубель и Перов каталога DEMO-12/Живопись, а также в подкаталогах Есенин и Лермонтов каталога DEMO-12/Поэзия? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43888: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43888\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко всего фай­лов с рас­ши­ре­ни­я­ми .pdf и .tiff со­дер­жит­ся в под­ка­та­ло­гах <b>Вру­бель</b> и <b>Перов</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b>, а также в под­ка­та­ло­гах <b>Есе­нин</b> и <b>Лер­мон­тов</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=81207\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в подкаталоги Врубель и Перов каталога DEMO-12/Живопись и Есенин и Лермонтов каталога DEMO-12/Поэзия. В строке поиска введем «*.pdf», а потом «*.tiff» где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширениями .pdf и .tiff. Таких файлов 8.\nОтвет: 8.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 43888: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=43888\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в под­ка­та­ло­ги <b>Вру­бель</b> и <b>Перов</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b> и <b>Есе­нин</b> и <b>Лер­мон­тов</b> ка­та­ло­га <b>DEMO-12/По­э­зия</b>. В стро­ке по­ис­ка вве­дем «*.pdf», а потом «*.tiff» где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­я­ми .pdf и .tiff. Таких фай­лов&#8239;8.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 8.<!--np--><!--np-->\n</body>\n</html>"
+    }
+  },
+  {
+    "id": 48001,
+    "url": "https://inf-oge.sdamgia.ru/problem?id=48001",
+    "condition": {
+      "text": "Сколько всего файлов с расширениями .jpeg и .pdf содержится в подкаталогах Васнецов и Верещагин каталога DEMO-12/Живопись, а также в подкаталогах Куприн и Пушкин каталога DEMO-12/Проза? В ответе укажите только число.\nDEMO-12.rar",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 48001: условие</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=48001\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\">Сколь­ко всего фай­лов с рас­ши­ре­ни­я­ми .jpeg и .pdf со­дер­жит­ся в под­ка­та­ло­гах <b>Вас­не­цов</b> и <b>Ве­ре­ща­гин</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b>, а также в под­ка­та­ло­гах <b>Куп­рин</b> и <b>Пуш­кин</b> ка­та­ло­га <b>DEMO-12/Проза</b>? В от­ве­те ука­жи­те толь­ко число.<p class=\"left_margin\"><center><p><a href=\"/get_file?id=101842\" target=\"_blank\">DEMO-12.rar</a><p class=\"left_margin\"></center>\n</body>\n</html>"
+    },
+    "solution": {
+      "text": "Решение.\nПоочередно спустимся в подкаталоги Васнецов и Верещагин каталога DEMO-12/Живопись и Куприн и Пушкин каталога DEMO-12/Проза. В строке поиска введем «*.jpeg», а потом «*.pdf», где символ *  — любое количество символов. Результатом поисковых запросов будет список всех файлов с расширениями .jpeg и .pdg. Таких файлов 8.\nОтвет: 8.",
+      "html": "<!DOCTYPE html>\n<html lang=\"ru\">\n<head>\n<meta charset=\"utf-8\">\n<title>Задача 48001: решение</title>\n<base href=\"https://inf-oge.sdamgia.ru/problem?id=48001\">\n<style>.source_code p { white-space: pre-wrap; margin: 0; } table { border-collapse: collapse; } td, th { border: 1px solid #aaa; padding: 0.25em; }</style>\n</head>\n<body>\n<p class=\"left_margin\"></p><b>Ре­ше­ние<!--rule_info-->. </b><p class=\"left_margin\">По­оче­ред­но спу­стим­ся в под­ка­та­ло­ги <b>Вас­не­цов</b> и <b>Ве­ре­ща­гин</b> ка­та­ло­га <b>DEMO-12/Жи­во­пись</b> и <b>Куп­рин</b> и <b>Пуш­кин</b> ка­та­ло­га <b>DEMO-12/Проза</b>. В стро­ке по­ис­ка вве­дем «*.jpeg», а потом «*.pdf», где сим­вол *&#8239;&#8239;— любое ко­ли­че­ство сим­во­лов. Ре­зуль­та­том по­ис­ко­вых за­про­сов будет спи­сок всех фай­лов с рас­ши­ре­ни­я­ми .jpeg и .pdg. Таких фай­лов&#8239;8.<p>&nbsp;</p><p><span style=\"letter-spacing: 2px;\">Ответ:</span> 8.<!--np--><!--np-->\n</body>\n</html>"
+    }
+  }
+]
